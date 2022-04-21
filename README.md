@@ -1,2 +1,2 @@
 # Functions-and-transformations
-Social Media Mani--Functions and transformations assignment Creative Coding
+Social Media Mania--Functions and transformations assignment Creative Coding
